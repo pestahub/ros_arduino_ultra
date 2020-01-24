@@ -1,0 +1,2 @@
+arduino:arduino_HW:arduino_ulrazvuk_2dvigatelya:hw
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/my_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/my_catkin_ws/install -G Unix Makefiles

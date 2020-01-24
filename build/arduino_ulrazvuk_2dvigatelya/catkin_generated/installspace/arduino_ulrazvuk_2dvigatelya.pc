@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/my_catkin_ws/install
+
+Name: arduino_ulrazvuk_2dvigatelya
+Description: Description of arduino_ulrazvuk_2dvigatelya
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/my_catkin_ws/install/lib 
+Requires: 
